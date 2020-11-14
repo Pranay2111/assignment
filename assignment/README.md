@@ -1,4 +1,4 @@
-# Project Title
+# NODE app with MYSQL DB
 
 Node application of CRUD operation with MYSQL database 
 
